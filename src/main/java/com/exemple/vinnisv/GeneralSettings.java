@@ -1,4 +1,4 @@
-package com.exemple.vinnisv.vendas;
+package com.exemple.vinnisv;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -6,8 +6,4 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class GeneralSettings {
 
-    @Bean
-    public String applicationName(){
-      return "Sistemas de Vendas";
-    };
 }

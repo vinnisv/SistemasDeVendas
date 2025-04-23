@@ -1,4 +1,4 @@
-package com.exemple.vinnisv.vendas;
+package com.exemple.vinnisv;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
